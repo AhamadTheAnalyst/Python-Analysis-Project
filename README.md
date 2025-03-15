@@ -9,9 +9,13 @@ Diwali Sales Analysis is a data-driven exploration of sales trends during the Di
 🔍 Key Insights & Findings
 
 ✅ Majority of buyers are female, and they contribute significantly to the overall sales.
+
 ✅ Age group 26-35 has the highest purchasing power, followed by younger demographics.
+
 ✅ Most sales originate from metro cities, with states like Maharashtra and Karnataka leading in purchases.
+
 ✅ Top-selling product categories include electronics and clothing, suggesting high demand during Diwali sales.
+
 ✅ Identified seasonal trends that businesses can leverage to optimize inventory and marketing strategies.
 
 📂 Dataset Overview
